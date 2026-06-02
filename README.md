@@ -11,10 +11,20 @@
 
 <p align="center">
   <a href="https://testflight.apple.com/join/UW186HBe">
-    <img src="https://img.shields.io/badge/Join%20the%20public%20beta-TestFlight-E53D30?style=for-the-badge&logo=apple&logoColor=white" alt="Join the PingRoom public beta on TestFlight" />
+    <img src="https://pingroom.io/testflight.png" alt="Join the PingRoom public beta on TestFlight" width="96" height="96" />
   </a>
 </p>
 
 <p align="center">
-  <sub>iOS · TestFlight · <a href="https://testflight.apple.com/join/UW186HBe">testflight.apple.com/join/UW186HBe</a></sub>
+  <a href="https://testflight.apple.com/join/UW186HBe">
+    <img src="https://img.shields.io/badge/Join%20the%20public%20beta-TestFlight-E53D30?style=for-the-badge&logo=apple&logoColor=white" alt="Join the PingRoom public beta on TestFlight" />
+  </a>
+  &nbsp;
+  <a href="https://pingroom.io">
+    <img src="https://img.shields.io/badge/pingroom.io-Visit%20site-050505?style=for-the-badge&logo=safari&logoColor=white" alt="Visit pingroom.io" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>iOS · TestFlight · <a href="https://testflight.apple.com/join/UW186HBe">testflight.apple.com/join/UW186HBe</a> · <a href="https://pingroom.io">pingroom.io</a></sub>
 </p>
