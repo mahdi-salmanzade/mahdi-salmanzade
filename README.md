@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/pingroom-banner.png" alt="PingRoom — One button. Everyone knows." width="100%" />
-</div>
-
 <h2 align="center">🔔 PingRoom is live in public beta on TestFlight</h2>
 
 <p align="center">
