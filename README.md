@@ -1,4 +1,4 @@
-<h2 align="center">🔔 PingRoom is live in public beta on TestFlight</h2>
+<h2 align="center">🔔 PingRoom is live on the App Store</h2>
 
 <p align="center">
   The bell that cuts through. Spin up a room, hit one button, and everyone knows — instantly.<br/>
@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://testflight.apple.com/join/UW186HBe">
-    <img src="https://pingroom.io/testflight.png" alt="Join the PingRoom public beta on TestFlight" width="96" height="96" />
+  <a href="https://apps.apple.com/us/app/pingroom/id6758355726">
+    <img src="https://pingroom.io/testflight.png" alt="Download PingRoom on the App Store" width="96" height="96" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://testflight.apple.com/join/UW186HBe">
-    <img src="https://img.shields.io/badge/Join%20the%20public%20beta-TestFlight-E53D30?style=for-the-badge&logo=apple&logoColor=white" alt="Join the PingRoom public beta on TestFlight" />
+  <a href="https://apps.apple.com/us/app/pingroom/id6758355726">
+    <img src="https://img.shields.io/badge/Download%20on%20the-App%20Store-E53D30?style=for-the-badge&logo=apple&logoColor=white" alt="Download PingRoom on the App Store" />
   </a>
   &nbsp;
   <a href="https://pingroom.io">
@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <sub>iOS · TestFlight · <a href="https://testflight.apple.com/join/UW186HBe">testflight.apple.com/join/UW186HBe</a> · <a href="https://pingroom.io">pingroom.io</a></sub>
+  <sub>iOS · App Store · <a href="https://apps.apple.com/us/app/pingroom/id6758355726">apps.apple.com/app/pingroom</a> · <a href="https://pingroom.io">pingroom.io</a></sub>
 </p>
