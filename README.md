@@ -1,7 +1,7 @@
 <h2 align="center">🔔 PingRoom is live on the App Store</h2>
 
 <p align="center">
-  The bell that cuts through. Spin up a room, hit one button, and everyone knows — instantly.<br/>
+  The bell that cuts through. Spin up a room, hit one button, and everyone knows, instantly.<br/>
   Real-time push notifications with quick actions, webhooks, location & time triggers.
 </p>
 
