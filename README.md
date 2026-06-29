@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/pingroom/id6758355726">
-    <img src="https://pingroom.io/testflight.png" alt="Download PingRoom on the App Store" width="96" height="96" />
+    <img src="https://static.wikia.nocookie.net/ipod/images/b/b7/App_Store_26_icon.png/revision/latest" alt="Download PingRoom on the App Store" width="96" height="96" />
   </a>
 </p>
 
