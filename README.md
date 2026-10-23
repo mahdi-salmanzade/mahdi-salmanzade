@@ -1,86 +1,43 @@
-<p align="center">
-  <a href="https://pingroom.io">
-    <img src="https://pingroom.io/Pingroom-icon.png" alt="PingRoom app icon" width="112" />
-  </a>
-</p>
+## Hi, I'm Mahdi
 
-<h1 align="center">PingRoom</h1>
+Co-founder and CTO at **[CLRT](https://www.clrtstudio.com)** · cybersecurity specialist · Dubai
 
-<p align="center">
-  <strong>One tap. Everyone knows.</strong><br />
-  Short-form communication for people, teams, automations, and AI agents.<br />
-  Share an update or ask a question, and everyone in the room gets it at once. No new chat thread required.
-</p>
+I'm a cybersecurity specialist and the co-founder and CTO of CLRT. I also build PingRoom at [Mindzone Technologies](https://mindzone.tech). The rest of my time goes into security tooling, AI agent infrastructure, and taking apart how software really works.
 
-<p align="center">
-  <a href="https://apps.apple.com/us/app/pingroom/id6758355726">
-    <img src="https://img.shields.io/badge/App%20Store-Download-E33122?style=for-the-badge&logo=apple&logoColor=white" alt="Download PingRoom on the App Store" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=mindzone.pingroom.android">
-    <img src="https://img.shields.io/badge/Google%20Play-Get%20the%20app-E33122?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get PingRoom on Google Play" />
-  </a>
-  <a href="https://try.pingroom.io">
-    <img src="https://img.shields.io/badge/Web-Try%20it%20in%20your%20browser-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try PingRoom in your browser" />
-  </a>
-  <a href="https://testflight.apple.com/join/UW186HBe">
-    <img src="https://img.shields.io/badge/TestFlight-Join%20the%20beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Join the PingRoom beta on TestFlight" />
-  </a>
-</p>
+### CTO @ CLRT
 
-<p align="center">
-  <a href="https://pingroom.io">pingroom.io</a> ·
-  <a href="https://pingroom.io/use-cases">Use cases</a> ·
-  <a href="https://pingroom.io/features">Features</a> ·
-  <a href="https://pingroom.io/features/live-activities">Live Activities</a> ·
-  <a href="https://pingroom.io/connections">Connections</a> ·
-  <a href="https://pingroom.io/agents">Agents</a> ·
-  <a href="https://pingroom.io/developers">Developer docs</a>
-</p>
+[CLRT](https://www.clrtstudio.com) is an applied agentic AI firm and build studio in Dubai. We build AI agents that lift the draining, repetitive work off a team, so its best people can spend their time where the business grows. Every agent runs on a governed line: it pulls the data and drafts the work, a person approves before anything is written to their systems, and every action is logged.
 
-### What a Ping can do
+As CTO, I build CLRT's agentic systems, developer tools, local-first AI, and security-first infrastructure. Some of what we've shipped in-house:
 
-- **Reach the whole room in one tap.** "Dinner's ready", "I'm outside", "Deploy is live". One Ping, everyone knows.
-- **Ask someone to act.** Add a confirmation request. The first person to confirm resolves it, and the room sees who's handling it.
-- **Stay live until it's done.** [Live Activities](https://pingroom.io/features/live-activities) keep one changing card on the iPhone Lock Screen, the Dynamic Island, or an Android live update.
-- **Fire on its own.** Trigger a Ping when someone arrives, at a set time, or from a webhook. Only the arrival is shared, never a live location.
-- **Put a human in the loop.** AI agents ask questions, request approvals, and hand off decisions over MCP, the SDK, or the CLI.
-
-### Where PingRoom fits
-
-- **[Families](https://pingroom.io/use-cases/family-coord):** arrivals, pickups, dinner, safety, and daily routines.
-- **[Couples](https://pingroom.io/use-cases/couples-private) and [friends](https://pingroom.io/use-cases/party-squad):** quiet check-ins, plans, and one-tap rescue signals.
-- **[Dev teams](https://pingroom.io/use-cases/deploy-status):** deployments, incidents, standups, approvals, and on-call alerts.
-- **[Automations](https://pingroom.io/connections) and [AI agents](https://pingroom.io/agents):** location and schedule triggers, webhooks, CI events, approval requests, and handoffs.
-
-**[Explore all 74 ready-made rooms →](https://pingroom.io/use-cases)**
-
-### Build with PingRoom
-
-Send a Ping to your phone from any terminal, script, or CI job:
-
-```bash
-npm install --global @pingroom/cli
-pingroom                                            # scan the QR code with the PingRoom app to connect
-pingroom ping -m "Deploy succeeded ✅"
-pingroom approval -p "Deploy to production?" --wait  # exits 0 only when approved
-```
-
-| Tool | Use it for |
+| Product | What it is |
 |---|---|
-| [**CLI and GitHub Action**](https://github.com/pingroom/cli) | Pings, questions, approvals, and live progress from shells and CI |
-| [**TypeScript SDK**](https://github.com/pingroom/sdk) | Zero-dependency client for rooms, pings, approvals, real-time listen, and webhook verification |
-| [**MCP and agent skills**](https://github.com/pingroom/skills) | Hosted MCP server plus ready-to-install skills for Claude Code, Grok Build, and OpenClaw |
-| [**Starter templates**](https://github.com/orgs/pingroom/repositories?q=starter) | Small, runnable projects: uptime alerts, on-call routing, human review, job progress, and more |
-| [**Pingminal**](https://github.com/pingroom/pingminal) | Cross-platform terminal broadcast CLI |
-| [**Developer docs**](https://pingroom.io/developers) | Agent API, OAuth 2.1, webhooks, and the event and Question protocols |
+| [CLRT Ascent](https://ascent.clrtstudio.com) | Free agentic-readiness diagnostic that scores where a company sits from L0 to L4 and names the one workflow worth building first |
+| [SyncLine](https://www.clrtstudio.com/projects/syncline) | History-first messaging CRM that makes years of WhatsApp and Telegram history searchable and drafts replies in context |
+| [MCP Dubai](https://github.com/mahdi-salmanzade/MCP-Dubai) | Open-source MCP server that grounds AI agents in 11 UAE authorities, from the DLD and RTA to DEWA and MOHRE |
+| [AnnualPlan.ai](https://annualplan.ai) | AI life operating system and coaching platform, selected for the Dubai AI Festival 2026 |
+| [OrbitWise](https://orbitwise.ai) | Personal astrology product combining Western astrology, Vedic astrology, and numerology |
 
----
+[See all CLRT products →](https://www.clrtstudio.com/ventures)
 
-### About me
+### Projects
 
-I'm Mahdi, a cybersecurity specialist and CTO at CLRT, based in Dubai. I build PingRoom at [Mindzone Technologies](https://mindzone.tech). The rest of my time goes into security tooling, AI agent infrastructure, and taking apart how software really works.
-
-#### Selected open source
+<table>
+  <tr>
+    <td width="88" align="center">
+      <a href="https://pingroom.io"><img src="https://pingroom.io/Pingroom-icon.png" alt="PingRoom app icon" width="64" /></a>
+    </td>
+    <td>
+      <strong><a href="https://pingroom.io">PingRoom</a></strong>: short-form communication for people, teams, automations, and AI agents. One tap reaches everyone in a room, with confirmations, Live Activities, location and schedule triggers, webhooks, and an MCP server so agents can ask a human before they act.<br />
+      <a href="https://apps.apple.com/us/app/pingroom/id6758355726">App Store</a> ·
+      <a href="https://play.google.com/store/apps/details?id=mindzone.pingroom.android">Google Play</a> ·
+      <a href="https://try.pingroom.io">Try it in your browser</a> ·
+      <a href="https://github.com/pingroom/cli">CLI</a> ·
+      <a href="https://github.com/pingroom/sdk">SDK</a> ·
+      <a href="https://pingroom.io/developers">Developer docs</a>
+    </td>
+  </tr>
+</table>
 
 **Security research**
 
@@ -96,7 +53,6 @@ I'm Mahdi, a cybersecurity specialist and CTO at CLRT, based in Dubai. I build P
 
 | Project | What it does |
 |---|---|
-| [MCP-Dubai](https://github.com/mahdi-salmanzade/MCP-Dubai) | MCP server for Dubai and UAE public data: Dubai Pulse, RTA, DLD, KHDA, DHA, and more |
 | [hippo](https://github.com/mahdi-salmanzade/hippo) | A Go LLM client with a memory. Every provider, cost-aware, single binary |
 | [GrokForge](https://github.com/mahdi-salmanzade/GrokForge) | A fast, careful, open-source Grok CLI for real work in the terminal |
 | [Crosstalk](https://github.com/mahdi-salmanzade/Crosstalk) | Four terminal coding agents on one problem, with one of them managing the others |
@@ -113,7 +69,8 @@ I'm Mahdi, a cybersecurity specialist and CTO at CLRT, based in Dubai. I build P
 | [keyglow](https://github.com/mahdi-salmanzade/keyglow) | Browser-based lighting editor for the Wooting 80HE over WebHID |
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mahdisalmanzade">LinkedIn</a> ·
   <a href="https://x.com/mahdisphp">X @mahdisphp</a> ·
-  <a href="https://mindzone.tech">mindzone.tech</a> ·
-  <a href="https://x.com/PingRoomIO">PingRoom on X</a>
+  <a href="https://www.clrtstudio.com">clrtstudio.com</a> ·
+  <a href="https://mindzone.tech">mindzone.tech</a>
 </p>
