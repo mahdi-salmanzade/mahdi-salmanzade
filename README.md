@@ -1,8 +1,8 @@
 ## Hi, I'm Mahdi
 
-Co-founder and CTO at **[CLRT](https://www.clrtstudio.com)** · cybersecurity specialist · Dubai
+Co-founder and CTO at **[CLRT](https://www.clrtstudio.com)** · Founder of **[MindZone](https://mindzone.tech)** · Dubai
 
-I'm a cybersecurity specialist and the co-founder and CTO of CLRT. I also build PingRoom at [Mindzone Technologies](https://mindzone.tech). The rest of my time goes into security tooling, AI agent infrastructure, and taking apart how software really works.
+I'm a cybersecurity specialist and software engineer. I'm the co-founder and CTO of CLRT, and I run MindZone, my own solo studio, where I build PingRoom and a few other apps. Everything else I make, from security tooling to agent infrastructure and reverse engineering, lives here under my own name.
 
 ### CTO @ CLRT
 
@@ -20,7 +20,9 @@ As CTO, I build CLRT's agentic systems, developer tools, local-first AI, and sec
 
 [See all CLRT products →](https://www.clrtstudio.com/ventures)
 
-### Projects
+### Founder @ MindZone
+
+[MindZone](https://mindzone.tech) is my solo product studio in Dubai. Product, design, and engineering happen at the same desk, and small ideas get turned into apps people use every day.
 
 <table>
   <tr>
@@ -28,7 +30,7 @@ As CTO, I build CLRT's agentic systems, developer tools, local-first AI, and sec
       <a href="https://pingroom.io"><img src="https://pingroom.io/Pingroom-icon.png" alt="PingRoom app icon" width="64" /></a>
     </td>
     <td>
-      <strong><a href="https://pingroom.io">PingRoom</a></strong>: short-form communication for people, teams, automations, and AI agents. One tap reaches everyone in a room, with confirmations, Live Activities, location and schedule triggers, webhooks, and an MCP server so agents can ask a human before they act.<br />
+      <strong><a href="https://pingroom.io">PingRoom</a></strong>: short-form communication for people, teams, automations, and AI agents. One tap reaches everyone in a room, with confirmations, Live Activities, location and schedule triggers, webhooks, and an MCP server so agents can ask a human before they act. On iOS, Android, the web, and Apple Watch.<br />
       <a href="https://apps.apple.com/us/app/pingroom/id6758355726">App Store</a> ·
       <a href="https://play.google.com/store/apps/details?id=mindzone.pingroom.android">Google Play</a> ·
       <a href="https://try.pingroom.io">Try it in your browser</a> ·
@@ -38,6 +40,17 @@ As CTO, I build CLRT's agentic systems, developer tools, local-first AI, and sec
     </td>
   </tr>
 </table>
+
+| Product | What it is |
+|---|---|
+| [Takery](https://takery.io) | Turn a reel, a format, or a rough idea into a script that sounds like you, then record it with a teleprompter. Open iPhone beta |
+| [TapTime](https://taptime.party) | A timing game for the table: the clock disappears and you try to stop on the target by feel |
+| [AppleApps](https://www.appleapps.io) | An independent editorial guide to apps worth a closer look on iPhone, iPad, and Mac |
+| [ProudU.AE](https://proudu.ae) | Free photo frames, branded posts, and wallpapers celebrating the UAE, in English and Arabic |
+
+### Personal projects
+
+Open source, built on my own time.
 
 **Security research**
 
